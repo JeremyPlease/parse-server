@@ -1,11 +1,11 @@
 {
-  "name": "parse-server",
-  "version": "2.2.22",
-  "description": "An express module providing a Parse-compatible API server",
+  "name": "parse-server-prerelease",
+  "version": "2.2.23",
+  "description": "PRERELEASE VERSION: An express module providing a Parse-compatible API server",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ParsePlatform/parse-server"
+    "url": "https://github.com/JeremyPlease/parse-server"
   },
   "files": [
     "bin/",

@@ -1,3 +1,5 @@
+**NOTE: this repo is published to npm as `parse-server-prerelease`. The reason for this is that installing parse-server with npm as a git url does not include files from `prepublish` command.**
+
 ![Parse Server logo](.github/parse-server-logo.png?raw=true)
 
 [![Build Status](https://img.shields.io/travis/ParsePlatform/parse-server/master.svg?style=flat)](https://travis-ci.org/ParsePlatform/parse-server)
