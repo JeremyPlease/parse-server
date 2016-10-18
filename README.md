@@ -1,4 +1,5 @@
-**NOTE: this repo is published to npm as `parse-server-prerelease`. The reason for this is that installing parse-server with npm as a git url does not include files from `prepublish` command.**
+**NOTE: this repo is published to npm as `parse-server-prerelease`. The reason for this is that installing parse-server with npm as a git url does not include files from `prepublish` command. 
+This repo DOES NOT follow the same versioning as parse-server.**
 
 ![Parse Server logo](.github/parse-server-logo.png?raw=true)
 
