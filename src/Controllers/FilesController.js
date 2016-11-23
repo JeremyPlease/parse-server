@@ -5,7 +5,7 @@ import AdaptableController from './AdaptableController';
 import { FilesAdapter } from '../Adapters/Files/FilesAdapter';
 import path  from 'path';
 import mime from 'mime';
-import uuid from 'node-uuid';
+import uuid from 'uuid';
 
 const legacyFilesRegex = new RegExp("^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}-.*");
 
